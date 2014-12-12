@@ -1,8 +1,16 @@
-Hour of Code 2014
-==========
+URL for this page: `bit.ly/code4all`
+
 ![Anybody can learn](http://oi61.tinypic.com/sdpkxz.jpg)
 
-<img src="http://oi61.tinypic.com/sdpkxz.jpg" />
+## Welcome to Hour of Code
+
+## Tutorials
+* Frozen (Anna, Elsa) - http://code.org/api/hour/begin/frozen
+* Angry Birds - http://code.org/api/hour/begin/codeorg
+* Code Combat - http://codecombat.com/?hour_of_code=true
+* Eliza - https://groklearning.com/learn/hoc-eliza/
+* Drawing Machine - http://code.org/curriculum/misc/hocunplugged/Teacher
+
 
 What to put up here?
 - Wifi info
@@ -14,8 +22,3 @@ Before you go!
 
 
 Tutorials:
-* Frozen (Anna, Elsa) - http://code.org/api/hour/begin/frozen
-* Angry Birds - http://code.org/api/hour/begin/codeorg
-* Code Combat - http://codecombat.com/?hour_of_code=true
-* Eliza - https://groklearning.com/learn/hoc-eliza/
-* Drawing Machine - http://code.org/curriculum/misc/hocunplugged/Teacher
