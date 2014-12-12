@@ -2,6 +2,8 @@ Hour of Code 2014
 ==========
 ![Anybody can learn](http://oi61.tinypic.com/sdpkxz.jpg)
 
+<img src="http://oi61.tinypic.com/sdpkxz.jpg" />
+
 What to put up here?
 - Wifi info
 - Links to tutorials, along with brief description
