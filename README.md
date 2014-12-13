@@ -4,7 +4,7 @@
 
 Open up browser and go to code.org, then click orange 'Start' button. Then choose one of the following tutorials:
 
-!(Frozen)[http://code.org/images/fit-520/frozen_carousel.jpg]
+![Frozen](http://code.org/images/fit-520/frozen_carousel.jpg)
 
 http://code.org/images/fit-520/frozen_carousel.jpg
 
