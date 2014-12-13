@@ -1,10 +1,10 @@
 # Mentor CheatSheet
 
-* Wifi Password: ?
+* This cheatsheet (http://bit.ly/mentors2014)
 * Check-in URL: (http://bit.ly/certificates2014)
 * Syllabus:
  * Code.org/learn
- * NYC Python Page: (http://bit.ly/code4all). This github repo (http://bit.ly/codenyu)
+ * NYC Python Page: (http://bit.ly/code4all). 
 
 ## Room Numbers
 
