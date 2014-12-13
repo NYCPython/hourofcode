@@ -11,7 +11,7 @@ Note: For those without a laptop, we have an "unplugged" series of tutorials for
 
 Open up browser and go to:
 
-<div style="font-size:bigger;"><a href="http://code.org/">http://code.org/</a></div>
+#### [code.org](http://code.org/)
 
 Then click orange 'Start' button. The page is organized with the most popular ones at the top. We suggest starting with either Angry Birds or Frozen.
 
