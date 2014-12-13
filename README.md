@@ -9,7 +9,7 @@ Open up browser and go to code.org, then click orange 'Start' button. The page i
 <img src="http://code.org/images/fit-520/frozen_carousel.jpg" height="200"/>
 <img src="http://code.org/images/fit-520/codehoc3.jpg" height="200"/>
 
-If you want to type code from a real-world programming language, give Javascript or Python try:
+If you want to type code from a real-world programming language, give Python or Javascript try:
 
 <img src="http://code.org/images/fit-520/khanacademy.jpg" height="200"/>
 <img src="http://code.org/images/fit-520/codecombat.jpg" height="200"/>
