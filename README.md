@@ -2,33 +2,21 @@
 
 ## Tutorials
 
-Open up browser and go to code.org, then click orange 'Start' button. Then choose one of the following tutorials:
+Note: For those without a laptop, we have an "unplugged" series of tutorials for you.
 
-![Frozen](http://code.org/images/fit-520/frozen_carousel.jpg)
+Open up browser and go to code.org, then click orange 'Start' button. The page is organized with the most popular ones at the top. We suggest starting with either Angry Birds or Frozen.
 
-http://code.org/images/fit-520/frozen_carousel.jpg
+<img src="http://code.org/images/fit-520/frozen_carousel.jpg" width="300"/>
+<img src="http://code.org/images/fit-520/codehoc3.jpg" width="300"/>
 
-* Frozen (Anna, Elsa) - Using code blocks. Age 8+.
-* Angry Birds - Using code blocks. Ages 4+.
-* Code Combat - Python/JS. Middle school +.
-* Eliza - Python/JS. Middle School +.
+If you want to type code from a real-world programming language, give Javascript or Python try:
 
+<img src="http://code.org/images/fit-520/khanacademy.jpg" width="300"/>
+<img src="http://code.org/images/fit-520/codecombat.jpg" width="300"/>
+<img src="http://code.org/images/fit-520/groklearning.jpg" width="300"/>
 
-* Frozen (Anna, Elsa) - http://code.org/api/hour/begin/frozen
-* Angry Birds - http://code.org/api/hour/begin/codeorg
-* Code Combat - http://codecombat.com/?hour_of_code=true
-* Eliza - https://groklearning.com/learn/hoc-eliza/
-* Drawing Machine - http://code.org/curriculum/misc/hocunplugged/Teacher
+## After finishing your first tutorial
 
+We're guessing you'll love the first tutorial so much you'll want to try another! Feel free to stick around to try another tutorial on that page. You can also click on the "Beyond One Hour" tab, where you'll find even more tutorials, like how to make games and web pages, program robots, or even university-level courses.
 
-
-What to put up here?
-- Wifi info
-- Links to tutorials, along with brief description
-- Sponsor logos and community partners?
-
-Before you go!
-- Come pick up your Hour of Code completion certificate!
-
-
-Tutorials:
+Before you head out, come to us so we can hand you your Certificate of Completion!
