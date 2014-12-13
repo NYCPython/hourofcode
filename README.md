@@ -2,7 +2,10 @@
 
 ## Tutorials
 
-Note: For those without a laptop, we have an "unplugged" series of tutorials for you.
+Note: For those without a laptop, we have an "unplugged" series of tutorials for you
+
+<img src="http://code.org/images/fit-520/fuzzfrenzy.jpg" height="200"/>
+<img src="http://code.org/images/fit-520/roboticfriends.jpg" height="200"/>
 
 Open up browser and go to code.org, then click orange 'Start' button. The page is organized with the most popular ones at the top. We suggest starting with either Angry Birds or Frozen.
 
