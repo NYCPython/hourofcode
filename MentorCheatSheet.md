@@ -1,10 +1,10 @@
-## Links
+# Mentor CheatSheet
 
 * Wifi Password: ?
-* Check-in URL: (bit.ly/certificates2014)
+* Check-in URL: (http://bit.ly/certificates2014)
 * Syllabus:
  * Code.org/learn
- * NYC Python Page: (bit.ly/code4all). This github repo (http://bit.ly/codenyu)
+ * NYC Python Page: (http://bit.ly/code4all). This github repo (http://bit.ly/codenyu)
 
 ## Room Numbers
 
@@ -27,4 +27,9 @@
 ### Unplugged
 
 * Conditionals with Cards
+ * Deck.Materials.pdf https://github.com/NYCPython/hourofcode/blob/master/Deck.Materials.pdf
+ * Deck.Assessment.pdf https://github.com/NYCPython/hourofcode/blob/master/Deck.Assessment.pdf
 * Family Frenzy
+ * Material: https://github.com/NYCPython/hourofcode/blob/master/fuzzFamilyFrenzy.pdf
+
+ 
