@@ -38,6 +38,7 @@ Before you head out, come to us so we can hand you your Certificate of Completio
 ### Community Partners
 
 * CodeMontage
+* Dazzling Discoveries STEM Education Center
 * The First Time Upper West Side Moms
 * Knewton
 * Metropolitan Asian Families
