@@ -1,5 +1,3 @@
-## Welcome to Hour of Code
-
 ## Tutorials
 
 Note: For those without a laptop, we have an "unplugged" series of tutorials for you
@@ -29,7 +27,7 @@ We're guessing you'll love the first tutorial so much you'll want to try another
 
 Before you head out, come to us so we can hand you your Certificate of Completion!
 
-## Event Organizers
+### Event Organizers
 
 <img src="http://oi62.tinypic.com/2j61vsg.jpg" alt="Big Apple Py, NYC Python" height="70">
 <img src="http://oi61.tinypic.com/ms2ji1.jpg" alt="Women Who Code" height="70">
@@ -37,15 +35,15 @@ Before you head out, come to us so we can hand you your Certificate of Completio
 <img src="http://www.natcom.org/uploadedImages/More_Scholarly_Resources/Doctoral_Program_Resource_Guide/NYU%20Logo.jpg" alt="NY University" height="110">
 <img src="http://bitbetter.se/content/images/2013/Oct/digital_ocean_logo_1200x900.png" alt="Digital Ocean" height="110">
 
-## Community Partners
+### Community Partners
 
-CodeMontage
-The First Time Upper West Side Moms
-Knewton
-Metropolitan Asian Families
-NYC Dads Group
-NYMetroParents
-Syncano
-The Three Tomatoes 
-Working Moms of Manhattan
-Write/Speak/Code
+* CodeMontage
+* The First Time Upper West Side Moms
+* Knewton
+* Metropolitan Asian Families
+* NYC Dads Group
+* NYMetroParents
+* Syncano
+* The Three Tomatoes 
+* Working Moms of Manhattan
+* Write/Speak/Code
