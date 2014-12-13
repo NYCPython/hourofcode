@@ -35,7 +35,7 @@ Before you head out, come to us so we can hand you your Certificate of Completio
 <img src="http://oi61.tinypic.com/ms2ji1.jpg" alt="Women Who Code" height="70">
 
 <img src="http://www.natcom.org/uploadedImages/More_Scholarly_Resources/Doctoral_Program_Resource_Guide/NYU%20Logo.jpg" alt="NY University" height="110">
-<img src="http://wiki.hackstore.com.br/images/b/b2/Digital-ocean-logo-4x3.png" alt="Digital Ocean" height="110">
+<img src="http://bitbetter.se/content/images/2013/Oct/digital_ocean_logo_1200x900.png" alt="Digital Ocean" height="110">
 
 ## Community Partners
 
