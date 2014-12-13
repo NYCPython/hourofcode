@@ -1,6 +1,6 @@
 ## Links
 
-Wifi Password: _____
+Wifi Password: ?
 Check-in URL: (bit.ly/certificates2014)
 Syllabus:
 * Code.org/learn
@@ -22,8 +22,13 @@ Javascript/Python
 
 * KhanAcademy - Javascript. Middle School+. (http://code.org/api/hour/begin/khan)
 * Code Combat - Python/JS. Middle school+. (http://code.org/api/hour/begin/codecombat)
-Eliza - Python/JS. Middle School +.
-Drawing Machine - paper and pen. For those without laptops.
+* Eliza - Python/JS. Middle School +.
+
+Unplugged
+
+* Conditionals with Cards
+* Family Frenzy
+
 
 
 Code Combat - http://codecombat.com/?hour_of_code=true
