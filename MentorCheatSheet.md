@@ -4,7 +4,7 @@
 * Check-in URL: (http://bit.ly/certificates2014)
 * Syllabus:
  * Code.org/learn
- * NYC Python Page: (http://bit.ly/code4all). 
+ * NYC Python Page: (http://bit.ly/code4all)
 
 ## Room Numbers
 
