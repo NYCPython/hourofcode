@@ -11,7 +11,7 @@
 * 102, 505 - bigger rooms (~50 people each)
 * 412, 605, 705, 805, 905 - smaller rooms (12-15 people each)
 
-## Tutorials
+## Suggested Tutorials
 
 ### Using Code Blocks
 
@@ -20,9 +20,8 @@
 
 ### Javascript/Python
 
-* KhanAcademy - Javascript. Middle School+. (http://code.org/api/hour/begin/khan)
-* Code Combat - Python/JS. Middle school+. (http://code.org/api/hour/begin/codecombat)
-* Eliza - Python/JS. Middle School +. (https://groklearning.com/learn/hoc-eliza/)
+* KhanAcademy - Create cartoon characters using shapes, Javascript. Middle School+. (http://code.org/api/hour/begin/khan)
+* Code Combat - Enter actual code to move character through game. Python/JS. Middle school+. (http://code.org/api/hour/begin/codecombat)
 
 ### Unplugged
 
@@ -31,5 +30,17 @@
  * Deck.Assessment.pdf https://github.com/NYCPython/hourofcode/blob/master/Deck.Assessment.pdf
 * Family Frenzy
  * Material: https://github.com/NYCPython/hourofcode/blob/master/fuzzFamilyFrenzy.pdf
+
+### Beyond One Hour
+
+If student wants to dive deeper, have them go to (http://code.org/learn/beyond):
+
+* A full CS course for K-8
+* Learn coding at home
+* Make games, web apps
+* Program robots
+* University-level courses
+
+
 
  
