@@ -29,3 +29,24 @@ If you want to type code from a real-world programming language, give Python or 
 We're guessing you'll love the first tutorial so much you'll want to try another! Feel free to stick around to try another tutorial on that page. You can also click on the "Beyond One Hour" tab, where you'll find even more tutorials, like how to make games and web pages, program robots, or even university-level courses.
 
 Before you head out, come to us so we can hand you your Certificate of Completion!
+
+## Event Organizers
+
+<img src="http://oi62.tinypic.com/2j61vsg.jpg" alt="Big Apple Py, NYC Python" height="70">
+<img src="http://oi61.tinypic.com/ms2ji1.jpg" alt="Women Who Code" height="70">
+
+<img src="http://www.natcom.org/uploadedImages/More_Scholarly_Resources/Doctoral_Program_Resource_Guide/NYU%20Logo.jpg" alt="NY University" height="110">
+<img src="http://wiki.hackstore.com.br/images/b/b2/Digital-ocean-logo-4x3.png" alt="Digital Ocean" height="110">
+
+## Community Partners
+
+CodeMontage
+The First Time Upper West Side Moms
+Knewton
+Metropolitan Asian Families
+NYC Dads Group
+NYMetroParents
+Syncano
+The Three Tomatoes 
+Working Moms of Manhattan
+Write/Speak/Code
