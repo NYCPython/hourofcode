@@ -27,14 +27,7 @@ One the same page, we recommend the CodeCombat, Lightbot, or Khan Academy tutori
 
 At the top of the page, you'll also find a tab labeled "Beyond One Hour". There you'll find even more tutorials, like how to make games and web pages, program robots, or even university-level courses. Code.org also has a curated 20 hour course similar to the Angry Birds and Frozen tutorials:
 
-<a hef="http://studio.code.org/"><img src="http://code.org/images/fit-520/code20hr.jpg"></a>
-
-## Don't have a laptop?
-
-You can still learn coding principles without a computer! Check out these "unplugged" tutorials:
-
-<img src="http://code.org/images/fit-520/fuzzfrenzy.jpg" height="150"/>
-<img src="http://code.org/images/fit-520/roboticfriends.jpg" height="150"/>
+<a hef="http://studio.code.org/"><img src="http://code.org/images/fit-520/code20hr.jpg" height="150"></a>
 
 ### Event Organizers, Sponsors, and Community Partners
 
