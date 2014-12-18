@@ -11,7 +11,7 @@ To start with your first Hour of Code, we suggest choosing one of the top two - 
 <a href="http://studio.code.org/s/frozen/stage/1/puzzle/1"><img src="http://code.org/images/fit-520/frozen_carousel.jpg" height="150"/></a>
 <a href="http://studio.code.org/hoc/1"><img src="http://code.org/images/fit-520/codehoc3.jpg" height="150"/></a>
 
-## Before you go...
+### Before you go...
 
 Before you head out, come to us so we can hand you your Certificate of Completion!
 
