@@ -29,6 +29,15 @@ At the top of the page, you'll also find a tab labeled "Beyond One Hour". There 
 
 <a href="http://studio.code.org/"><img src="http://code.org/images/fit-520/code20hr.jpg" height="150"></a>
 
+## Beyond Hour of Code
+
+Wondering what you can do beyond the Hour of Code? We've collected these tips and resources to share with you:
+
+* <a href="http://nycpython.github.io/beyondthehour#mentors">Encouragement from mentors</a>
+* <a href="http://nycpython.github.io/beyondthehour#stories">What can you do with coding?</a>
+* <a href="http://nycpython.github.io/beyondthehour#resources">Free in-person resources</a>
+* <a href="http://nycpython.github.io/beyondthehour#courses">Programming Courses</a>
+
 ### Event Organizers, Sponsors, and Community Partners
 
 This event was organized by NYC Python and Women Who Code NYC, who provide office hours, hacknights, workshops and talks all for free, for programmer beginners and experts alike:
