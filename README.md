@@ -21,9 +21,9 @@ We're guessing you'll love the first tutorial so much you'll want to try another
 
 One the same page, we recommend the CodeCombat, Lightbot, or Khan Academy tutorials (found in the sections "Tutorials in other programming languages", "Tutorials for phones/tablets", and "Tutorials for JavaScript"). Theses tutorials have multiple levels, and can provide many hours of fun and challenge!
 
-<a href="http://codecombat.com/?hour_of_code=true"><img src="http://code.org/images/fit-520/codecombat.jpg" height="150"/></a>
-<a href="http://lightbot.com/hoc2014.html"><img src="http://code.org/images/fit-520/lightbot.jpg" height="150"/></a>
-<a href="https://www.khanacademy.org/computing/hour-of-code/hour-of-code-tutorial/v/welcome-hour-of-code"><img src="http://code.org/images/fit-520/khanacademy.jpg" height="150"/></a>
+<a href="http://codecombat.com/?hour_of_code=true"><img src="http://code.org/images/fit-520/codecombat.jpg" height="100"/></a>
+<a href="http://lightbot.com/hoc2014.html"><img src="http://code.org/images/fit-520/lightbot.jpg" height="100"/></a>
+<a href="https://www.khanacademy.org/computing/hour-of-code/hour-of-code-tutorial/v/welcome-hour-of-code"><img src="http://code.org/images/fit-520/khanacademy.jpg" height="100"/></a>
 
 At the top of the page, you'll also find a tab labeled "Beyond One Hour". There you'll find even more tutorials, like how to make games and web pages, program robots, or even university-level courses. Code.org also has a curated 20 hour course similar to the Angry Birds and Frozen tutorials:
 
