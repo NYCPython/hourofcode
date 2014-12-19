@@ -33,8 +33,8 @@ At the top of the page, you'll also find a tab labeled "Beyond One Hour". There 
 
 This event was organized by NYC Python and Women Who Code NYC, who provide office hours, hacknights, workshops and talks all for free, for programmer beginners and experts alike:
 
-<a href="meetup.com/nycpython"><img src="http://oi62.tinypic.com/2j61vsg.jpg" alt="Big Apple Py, NYC Python" height="70"></a>
-<a href="www.meetup.com/WomenWhoCodeNYC/"><img src="http://oi61.tinypic.com/ms2ji1.jpg" alt="Women Who Code" height="70"></a>
+<a href="http://meetup.com/nycpython"><img src="http://oi62.tinypic.com/2j61vsg.jpg" alt="Big Apple Py, NYC Python" height="70"></a>
+<a href="http://www.meetup.com/WomenWhoCodeNYC/"><img src="http://oi61.tinypic.com/ms2ji1.jpg" alt="Women Who Code" height="70"></a>
 
 A huge thank you to NY University for providing space and to Digital Ocean for providing food, drinks and mentors:
 
