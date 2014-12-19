@@ -1,57 +1,70 @@
-## Welcome to Hour of Code! 
+## Beyond One Hour of Code
 
-To get started: 
-* open up a browser, and go to [code.org](http://code.org/)
-* then click orange 'Start' button. 
+We're happy that you've begun your exciting exploration into the fun and limitless world of programming! 
 
-Here are a number of coding tutorials that each take about an hour to complete. The page is organized with the easiest and most popular ones at the top, and the more challenging or application-specific ones at the bottom.
+We hope that you'll also want to spread the joy of [Hour of Code](http://nycpython.github.io/hourofcode) with your friends and family.
 
-To start with your first Hour of Code, we suggest choosing one of the top two - Angry Birds or Frozen:
+In addition to the [Beyond One Hour](http://code.org/learn/beyond) exercises on the code.org site, we've collected the additional tips and resources that we wanted to share with you:
 
-<a href="http://studio.code.org/s/frozen/stage/1/puzzle/1"><img src="http://code.org/images/fit-520/frozen_carousel.jpg" height="150"/></a>
-<a href="http://studio.code.org/hoc/1"><img src="http://code.org/images/fit-520/codehoc3.jpg" height="150"/></a>
+* Encouragement from mentors
+* What can you do with coding?
+* Free in-person resources
+* Programming Courses
 
-### Before you go...
+<a name="mentors"></a>
+### Encouragement from Mentors
 
-Before you head out, come to us so we can hand you your Certificate of Completion!
+We've asked the mentors from Saturday's Hour of Code for advice or words of encouragement. Here's what they had to say:
 
-## After your first Hour of Code
+    “Keep going! Look for tasks that you perform on your computer 
+    that are ripe for automation, and use your programming skills 
+    to dispense with them for good.”
 
-We're guessing you'll love the first tutorial so much you'll want to try another! 
+            “If you had fun, keep at it. I started out making little games 
+            on my family's computer, and over 15 years later, I still 
+            enjoy it.“
 
-One the same page, we recommend the CodeCombat, Lightbot, or Khan Academy tutorials (found in the sections "Tutorials in other programming languages", "Tutorials for phones/tablets", and "Tutorials for JavaScript"). Theses tutorials have multiple levels, and can provide many hours of fun and challenge!
+    “Pick something simple to build and use that as a focal point 
+    for learning rather than trying to learn a language and then 
+    build something with it.”
 
-<a href="http://codecombat.com/?hour_of_code=true"><img src="http://code.org/images/fit-520/codecombat.jpg" height="150"/></a>
-<a href="http://lightbot.com/hoc2014.html"><img src="http://code.org/images/fit-520/lightbot.jpg" height="150"/></a>
-<a href="https://www.khanacademy.org/computing/hour-of-code/hour-of-code-tutorial/v/welcome-hour-of-code"><img src="http://code.org/images/fit-520/khanacademy.jpg" height="150"/></a>
+            “Programming can be a really rewarding experience, and there's 
+            no limit to what you can do with it.”
 
-At the top of the page, you'll also find a tab labeled "Beyond One Hour". There you'll find even more tutorials, like how to make games and web pages, program robots, or even university-level courses. Code.org also has a curated 20 hour course similar to the Angry Birds and Frozen tutorials:
+<a name="stories"></a>
+### What can you do with coding?
 
-<a hef="http://studio.code.org/"><img src="http://code.org/images/fit-520/code20hr.jpg" height="150"></a>
+Here's just a few ideas of what you can do with coding!
 
-### Event Organizers, Sponsors, and Community Partners
+You can <a href="http://www.tynker.com/">interface with hardware</a>, <a href="http://www.blackgirlscode.com/">build robots</a>, <a href="https://www.madewithcode.com/">program christmas lights</a>, or <a href="http://scratch.mit.edu/hoc2014/">build custom games</a>:<br/>
 
-This event was organized by NYC Python and Women Who Code NYC, who provide office hours, hacknights, workshops and talks all for free, for programmer beginners and experts alike:
+<a href="http://www.tynker.com/"><img src="http://www.tynker.com/image/home/photos/picture-hardware-boy.jpg" height="100"/></a>
+<a href="https://www.madewithcode.com/"><img src="https://www.madewithcode.com/resources/images/lights-teaser.png" height="100"/></a>
+<a href="http://www.blackgirlscode.com/"><img src="http://www.blackgirlscode.com/uploads/7/1/1/6/7116907/7313878.jpg?270" height="100"/></a>
+<a href="http://scratch.mit.edu/hoc2014/"><img src="http://code.org/images/fit-520/scratch.jpg" height="100"/></a>
 
-<a href="meetup.com/nycpython"><img src="http://oi62.tinypic.com/2j61vsg.jpg" alt="Big Apple Py, NYC Python" height="70"></a>
-<a href="www.meetup.com/WomenWhoCodeNYC/"><img src="http://oi61.tinypic.com/ms2ji1.jpg" alt="Women Who Code" height="70"></a>
+You can use programming to <a href="http://www.codecademy.com/stories/103-study-the-human-mind-with-python">study the human mind</a>, <a href="http://www.codecademy.com/stories/99-how-to-outgrow-the-fear-of-starting">make your dream idea</a>, or <a href="http://www.codecademy.com/stories/102-a-new-career-at-55">change careers (even at 55!)</a>:
 
-A huge thank you to NY University for providing space and to Digital Ocean for providing food, drinks and mentors:
+<a href="http://www.codecademy.com/stories/103-study-the-human-mind-with-python"><img src="http://cdn-production.codecademy.com/assets/stories/portraits/laura-kelly-ca99f1740789613c253eda79186501db.png" height="100"/></a>
+<a href="http://www.codecademy.com/stories/99-how-to-outgrow-the-fear-of-starting"><img src="http://cdn-production.codecademy.com/assets/stories/portraits/sam-fellig-df8ac79a5be50c3d73f749cdfdf7f646.jpg" height="100"/></a>
+<a href="http://www.codecademy.com/stories/102-a-new-career-at-55"><img src="http://cdn-production.codecademy.com/assets/stories/portraits/liz-54823f65849edc3360bf118e2536d342.jpg" height="100"></a>
 
-<a href="http://www.cims.nyu.edu/"><img src="http://www.natcom.org/uploadedImages/More_Scholarly_Resources/Doctoral_Program_Resource_Guide/NYU%20Logo.jpg" alt="NY University" height="110"></a>
-<a href="https://www.digitalocean.com/"><img src="http://bitbetter.se/content/images/2013/Oct/digital_ocean_logo_1200x900.png" alt="Digital Ocean" height="110"></a>
+<a name="resources"></a>
+### Free in-person resources
 
-And a big thank you as well to our community partners, who helped to provide mentors and spread the word about this event:
+* <a href="http://www.coderdojonyc.org/">CoderDojo NYC</a> hosts free monthly workshops for youth ages 7-17. 
+* <a href="http://www.meetup.com/nycpython/">NYC Python</a> and <a href="http://www.meetup.com/WomenWhoCodeNYC/">Women Who Code</a> provide office hours, hacknights, workshops and talks all for free, for programmer beginners and experts alike
+* <a href="http://codebuddies.org"/>CodeBuddies</a> is a free service to help you stay motivated and learn faster by connecting you to other code learners via Google Hangout
 
-* <a href="https://www.codemontage.com/" target="_blank">CodeMontage</a>
-* <a href="http://coderdojonyc.org/" target="_blank">CoderDojo NYC</a>
-* <a href="http://www.dazzlingdiscoveries.com/" target="_blank">Dazzling Discoveries STEM Education Center</a>
-* <a href="http://www.meetup.com/Upper-West-Side-Moms/" target="_blank">The First Time Upper West Side Moms</a>
-* <a href="http://www.knewton.com/" target="_blank">Knewton</a>
-* <a href="http://www.meetup.com/Metropolitan-Asian-Families/" target="_blank">Metropolitan Asian Families</a>
-* <a href="http://www.nycdadsgroup.com/" target="_blank">NYC Dads Group</a>
-* <a href="http://www.nymetroparents.com/" target="_blank">NYMetroParents</a>
-* <a href="http://www.syncano.com/" target="_blank">Syncano</a>
-* <a href="http://www.thethreetomatoes.com/" target="_blank">The Three Tomatoes</a>
-* <a href="http://www.meetup.com/parents-579/" target="_blank">Working Moms of Manhattan</a>
-* <a href="http://www.writespeakcode.com/" target="_blank">Write/Speak/Code</a>
+<a href="http://www.coderdojonyc.org/"><img src="http://static.squarespace.com/static/53f50ebde4b0fdae82313485/t/5410e913e4b0345bd3e105d6/1410394389179/20131020-IMG_0164-1500px.jpg?format=1500w" height="100"/></a>
+<a href="http://www.meetup.com/nycpython/"><img src="http://photos1.meetupstatic.com/photos/event/5/4/2/6/event_279261542.jpeg" height="100" /></a>
+<a href="http://www.meetup.com/WomenWhoCodeNYC/"><img src="http://media.bizj.us/view/img/1545671/women-who-code*304.jpg" height="100"/></a>
+
+<a name="resources"></a>
+### Programming Courses
+
+* [Codecademy](www.codecademy.com), [KhanAcademy](https://www.khanacademy.org/), [Cousera](http://cousera.com) all have wonderful free online courses
+* [General Assembly](http://generalassemb.ly), <a href="http://www.girldevelopit.com/">GirlDevelopIt</a> and [DevBootcamp](http://devbootcamp.com/) host inexpensive in-person courses.
+
+<a href="http://generalassemb.ly"><img src="http://www.maveron.com/blog/wp-content/uploads/General-Assembly-logo.jpg" height="60"/></a>
+<a href="http://www.girldevelopit.com/"><img src="http://photos3.meetupstatic.com/photos/event/5/5/9/7/global_50901911.jpeg" height="60" /></a>
